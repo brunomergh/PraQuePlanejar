@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Pra que planejar?
 
-You can use the [editor on GitHub](https://github.com/brunomergh/PraQuePlanejar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ao desenvolver um projeto de software é necessário que atenda suas funcionalidades atendam as necessidades do cliente. Certo, vou apenas falar pra ele como vai ficar e ele como expert no assunto vai entender extamente o que eu estou dizendo...errado!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Veja um exemplo figurativo:
 
-### Markdown
+![](http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/intro/projeto.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Então antes de começar a desenvolver é necessário um planejamento. Este planejamento possibilita a visualização completa do software antes de ser construído. Com isso o cliente tem a certeza de que irá construir exatamente o que pretende, dando ao mesmo segurança e tranqüilidade.
 
-```markdown
-Syntax highlighted code block
+É fundamental importância do planejamento, pois apresenta o plano exato e detalhado do que será construído, evitando os famosos retrabalhos, que resultará em economia ao cliente.
 
-# Header 1
-## Header 2
-### Header 3
+O software que é planejado e projetado antes de construir apresenta um alto valor agregado para futura comercialização, mesmo levando um tempo e tendo seu custo, no final das contas, torna-se um excelente e vantajoso negócio, pois traz economia e tranqüilidade ao cliente.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunomergh/PraQuePlanejar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Basicamente a ideia de pensar antes de agir!
